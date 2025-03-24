@@ -1,0 +1,1 @@
+A work-in-progress Tetris game built with Python and Pygame. Currently includes the grid, tetromino shapes, colors, and positioning. Future improvements will add movement, collision detection, and game mechanics. This is a great starting making mini projects like this one! 🎮
